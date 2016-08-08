@@ -1,0 +1,32 @@
+_repo: The-Meaning-of-Infancy_12359
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fiske, John
+    aliases:
+    - Green, Edmund Fisk
+    - Fisk, John
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '525'
+    url: http://www.gutenberg.org/2009/agents/525
+    wikipedia: http://en.wikipedia.org/wiki/John_Fiske
+description: I. The meaning of infancy. From "Excursions of an evolutionist".--II.
+  The part played by infancy in the evolution of man. From " A century of science."
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human evolution'
+- !lcsh 'Infants'
+- !lcc 'QH'
+- GITenberg
+tableOfContents: I. The meaning of infancy. From "Excursions of an evolutionist" --
+  II. The part played by infancy in the evolution of man. From "A century of science".
+title: The Meaning of Infancy
+url: http://www.gutenberg.org/ebooks/12359
