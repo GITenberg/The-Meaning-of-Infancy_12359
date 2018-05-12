@@ -1,5 +1,8 @@
 _repo: The-Meaning-of-Infancy_12359
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fiske, John
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/John_Fiske
 description: I. The meaning of infancy. From "Excursions of an evolutionist".--II.
   The part played by infancy in the evolution of man. From " A century of science."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12359#The-Meaning-of-Infancy
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
